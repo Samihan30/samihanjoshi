@@ -1,0 +1,1 @@
+Add your project thumbnails here. The current website uses CSS placeholders until you customize the project cards.
